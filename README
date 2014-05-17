@@ -1,0 +1,1 @@
+Converts regular expression to NFA then converts NFA to DFA and then test if the DFA accepts given strings based off the regular expression.
